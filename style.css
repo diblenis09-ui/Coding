@@ -12,10 +12,12 @@ p {
     font-family: verdana;
     font-size: 20px;
 }
+.container {
+  display: flex;
+  justify-content: bottom;
+  align-items: bottom;
+}
 img {
-  width: 500px;
-  height: 200px;
-  object-fit: cover;
-  object-position: center bottom;
+  width: 200px;
 }
 
