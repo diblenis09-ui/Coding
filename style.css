@@ -1,3 +1,18 @@
+a {
+    color: black;
+}
+body {
+    background-color: forestgreen;
+}
+h1 {
+    color: aqua;
+    text-align: center;
+}
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
 .container {
   display: flex;
   justify-content: bottom;
