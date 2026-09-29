@@ -13,15 +13,5 @@ p {
     font-size: 20px;
 }
 
-.image-container {
-  width: 200px;
-  height: 300px;
-  border: 1px solid black;
-}
 
-img {
-  position: absolute;
-  top: -200;
-  left: 200;
-}
 
