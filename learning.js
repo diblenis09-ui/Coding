@@ -1,4 +1,13 @@
-console.log("Hello World!");
-console.log("540-841-5091");
-console.log("Daniel" + "Blenis");
-console.log(540-841-5091)
+let cl = console.log;
+
+for (let i = 1; i <= 100; i++) {
+  if (i % 15 === 0) {
+    console.log("FizzBuzz");
+  } else if (i % 3 === 0) {
+    console.log("Fizz");
+  } else if (i % 5 === 0) {
+    console.log("Buzz");
+  } else {
+    console.log(i);
+  }
+}
